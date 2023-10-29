@@ -1,5 +1,16 @@
 # app-builder-lib
 
+## 24.8.1
+
+### Patch Changes
+
+- [#7838](https://github.com/electron-userland/electron-builder/pull/7838) [`87eae1cc`](https://github.com/electron-userland/electron-builder/commit/87eae1cc2f85f034f1543840b20d56e89a23c0df) Thanks [@mifi](https://github.com/mifi)! - fix: don't notarize mas builds
+
+- Updated dependencies [[`db424e8e`](https://github.com/electron-userland/electron-builder/commit/db424e8e876e6ac1985668bf78bd52a02824dd7f), [`db424e8e`](https://github.com/electron-userland/electron-builder/commit/db424e8e876e6ac1985668bf78bd52a02824dd7f)]:
+  - builder-util-runtime@9.2.3
+  - builder-util@24.8.1
+  - electron-publish@24.8.1
+
 ## 24.8.0
 
 ### Minor Changes
